@@ -88,6 +88,7 @@ body {
     display: flex;
     flex-direction: column;
     justify-content: space-between;
+    width: 20%;
 }
 
 .contact-info__block--center {
